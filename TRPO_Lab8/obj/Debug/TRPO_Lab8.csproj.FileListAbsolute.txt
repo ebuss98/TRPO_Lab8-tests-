@@ -1,0 +1,9 @@
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\bin\Debug\TRPO_Lab8.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\bin\Debug\TRPO_Lab8.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\bin\Debug\TRPO_Lab8.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ЭВМ\TRPO_Lab8\obj\Debug\TRPO_Lab8.pdb
